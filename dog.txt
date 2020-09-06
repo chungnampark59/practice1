@@ -1,0 +1,4 @@
+This is a text file named "dog.txt" for Git practice.
+I made the first change to this file.
+I made the second change.
+I made the third change.
